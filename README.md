@@ -1,4 +1,4 @@
-# first_app
+# flutter proximo lbshop
 
 A new Flutter project.
 
