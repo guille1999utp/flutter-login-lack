@@ -1,4 +1,4 @@
-# flutter proximo lbshop
+# flutter proximo lbshop (cerrado)
 
 A new Flutter project.
 
